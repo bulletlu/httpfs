@@ -1,0 +1,13 @@
+<projectDescription>
+  <name>hadoop-hdfs-httpfs</name>
+  <comment>Apache Hadoop HttpFS for cdh3</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
